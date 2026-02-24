@@ -1,7 +1,7 @@
 ## RMAN Restore & Recovery
 
 This section demonstrates restore and recovery workflows.  
-(Use these steps only in a controlled lab environment.)
+
 
 ### Key Terms
 - **RESTORE**: brings back missing/corrupted datafiles from backup
